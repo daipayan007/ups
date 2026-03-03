@@ -1,0 +1,15 @@
+langchain
+langchain_openai
+langgraph
+IPython
+python_dotenv
+requests
+fastapi
+uvicorn
+llm-guard
+python-multipart
+openai
+asyncpg
+aioodbc
+fastapi
+uvicorn
